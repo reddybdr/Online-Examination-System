@@ -1,7 +1,7 @@
 Hai there this is  a project just under development process
 so please help me to complete this project 
 Talent Hunt
-  -----An Online Examination System
+  -----An Online Examination System-----
  How to Install
   1.Extract this Directory to your htdocs folder
   2.open your PhpMyadmin and create a new database 
@@ -14,10 +14,11 @@ Talent Hunt
      4.DB_NAME   - this is the name of the database in which you have imported the dbtables.sql(dump)
   
   There is a default admin for this system
-  The account details are 
+  The account details are: 
   username:admin password:123456
 
-  Yippe you are ready to test this online examination system 
-   please feel free to mail me to let me know your suggestions or ideas or problems in this system
-   iam just a starter in this field pls encourage me with your feedback 
-   my mail id is ravitejak@live.in
+ Yippe you are ready to test this online examination system. 
+ Please feel free to mail me to let me know your suggestions or ideas or problems in this system.
+ I am just a starter in this field pls encourage me with your feedback. 
+ Contact Mail ID: ravitejak@live.in
+   
